@@ -1,0 +1,53 @@
+{
+    "editor.folding": true,
+    "terminal.integrated.fontFamily": "JetBrainsMono NFM",
+    "workbench.colorTheme": "Sweet Dracula",
+    "editor.fontFamily": "Operator mono",
+    "editor.fontSize": 18,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "sourcepawn.SourcemodHome": "C:\\Users\\redpz\\sourcemodAPI\\addons\\sourcemod\\scripting\\include",
+    "sourcepawn.SpcompPath": "C:\\Users\\redpz\\sourcemodAPI\\addons\\sourcemod\\scripting\\spcomp.exe",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Ubuntu (WSL)": {
+            "path": "C:\\Windows\\Sysnative\\wsl.exe",
+            "args": [
+                "-d",
+                "Ubuntu"
+            ]
+        }
+    },
+    "debug.console.fontFamily": "consolas",
+    "codesnap.containerPadding": "0px",
+    "codesnap.realLineNumbers": true,
+    "codesnap.roundedCorners": false,
+    "codesnap.showWindowControls": false,
+    "codesnap.boxShadow": "rgba(0, 0, 0, 0.55) 0px 0px 0px",
+    "codesnap.shutterAction": "copy",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.cursorWidth": 3,
+    "editor.fontLigatures": true,
+    "editor.fontVariations": true,
+    "editor.fontWeight": "normal",
+    "git.autofetch": true,
+    "git.confirmSync": false
+}
